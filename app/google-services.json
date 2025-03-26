@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56765376387",
+    "project_id": "voithos-ad3b1",
+    "storage_bucket": "voithos-ad3b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56765376387:android:236f5ad9329c1ddeb438b6",
+        "android_client_info": {
+          "package_name": "com.example.voithos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk__YRK6WY24dw2sk2pNUhKDWX5eEB4kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
